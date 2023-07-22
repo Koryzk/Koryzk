@@ -66,13 +66,7 @@
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Koryzk/Koryzk/output/snake.svg" alt="Snake animation" />
-
-###
+##
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Koryzk/count.svg?"  />
