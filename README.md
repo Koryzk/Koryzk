@@ -41,7 +41,13 @@
 
 ###
 
-<h2 align="center">🛠 Language and tools</h2>
+<h2 align="center">🏆 Language</h2>
+
+###
+
+###
+
+<h2 align="center">🛠 Tools</h2>
 
 ###
 
